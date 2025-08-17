@@ -3,11 +3,9 @@ import React from "react";
 
 const HomeC: React.FC = () => {
     return(
-
           <div className="container">
             <p>Hi this is just the starts some text</p>
           </div>
-
     )
 }
 
